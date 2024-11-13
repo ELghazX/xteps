@@ -34,13 +34,13 @@
         </li>       
 
         <li class="sidebar-footer">
-            <a href="profil.php">
+            <a href="login.php">
                 <img src="Assets/icon/akun.png" alt="Profile" class="icon">
                 <span>Profile</span>
             </a>
             <a href="logout.php">
                 <img src="Assets/icon/log out.png" alt="Log Out" class="icon">
-                <span>Log Out</span>
+                <a href="logout.php"><span>Log Out</span></a>
             </a>
         </li>
     </ul>

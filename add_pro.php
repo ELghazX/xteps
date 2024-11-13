@@ -17,7 +17,7 @@
   <main>
     <div class="navbar">
       <img src="Assets/icon/bell.png" alt="notification" class="image-navbar">
-      <img src="Assets/icon/akun.png" alt="profile" class="image-navbar">
+      <a href="login.php"><img src="Assets/icon/akun.png" alt="profil" class="image-navbar"> </a>
     </div>
 
     <div>
